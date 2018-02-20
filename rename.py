@@ -2,7 +2,6 @@ import os
 import shutil
 from guessit import guessit
 
-homedir =
 MUSICDB = os.environ['HOME'] + '/Music'
 
 def find(folder):
